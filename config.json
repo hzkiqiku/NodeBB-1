@@ -1,0 +1,12 @@
+{
+    "url": "http://nodebb.test1.svc.cluster.local:4567",
+    "secret": "a117008067",
+    "database": "redis",
+    "redis": {
+        "host": "redis.test1.svc.cluster.local",
+        "port": "6379",
+        "password": "",
+        "database": "nodebb"
+    },
+    "type": "literal"
+}
