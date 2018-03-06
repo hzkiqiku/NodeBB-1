@@ -1,6 +1,5 @@
 #!/bin/bash
 cd /
-find / -name "nodebb"
-./nodebb setup
+/tmp/src/nodebb setup
 
 
