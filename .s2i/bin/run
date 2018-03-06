@@ -1,0 +1,3 @@
+#!/bin/bash
+. /etc/profile 
+/NodeBB-1/nodebb start
