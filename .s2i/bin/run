@@ -1,4 +1,5 @@
 #!/bin/bash
+export PATH=$PATH:/node-v6.9.5-linux-x64/bin
 /NodeBB-1/nodebb start
 while true;do
  sleep 3600
