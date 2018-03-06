@@ -1,4 +1,4 @@
 #!/bin/bash
-su -c '/NodeBB-1/nodebb setup' 1000
+/NodeBB-1/nodebb setup
 
 
