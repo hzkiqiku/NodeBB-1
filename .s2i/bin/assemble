@@ -1,3 +1,4 @@
 #!/bin/bash
-. /etc/profile
-/NodeBB-1/nodebb setup
+su -c '/NodeBB-1/nodebb setup' 1000
+
+
