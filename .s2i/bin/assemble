@@ -1,11 +1,3 @@
 #!/bin/bash
-apt-get update
-apt-get install -y wget 
-wget "https://nodejs.org/dist/v6.9.5/node-v6.9.5-linux-x64.tar.gz"
-tar -xvf node-v6.9.5-linux-x64.tar.gz
-cat << EOF >> /etc/profile
-PATH=$PATH:/node-v6.9.5-linux-x64/bin
-export PATH
-EOF
 . /etc/profile
 /NodeBB-1/nodebb setup
