@@ -1,3 +1,5 @@
 #!/bin/bash
-. /etc/profile 
 /NodeBB-1/nodebb start
+while true;do
+ sleep 3600
+done
