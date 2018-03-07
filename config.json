@@ -3,7 +3,7 @@
     "secret": "a117008067",
     "database": "redis",
     "redis": {
-        "host": "redis.test1.svc.cluster.local",
+        "host": "10.10.10.182",
         "port": "6379",
         "password": "",
         "database": "nodebb"
