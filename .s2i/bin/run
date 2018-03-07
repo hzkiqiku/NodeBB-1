@@ -1,3 +1,4 @@
 #!/bin/bash
 export PATH=$PATH:/node-v6.9.5-linux-x64/bin
 /tmp/src/nodebb start
+/tmp/src/nodebb log
