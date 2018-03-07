@@ -1,6 +1,7 @@
 #!/bin/bash
 cd /
 export PATH=$PATH:/node-v6.9.5-linux-x64/bin
+chmod -R 777 /tmp/src/*
 /tmp/src/nodebb setup
 
 
