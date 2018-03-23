@@ -1,9 +1,9 @@
 {
-    "url": "http://nodebb.test1.svc.cluster.local:4567",
+    "url": "http://www.nodebb.com",
     "secret": "a117008067",
     "database": "redis",
     "redis": {
-        "host": "10.10.10.182",
+        "host": "localhost",
         "port": "6379",
         "password": "",
         "database": "nodebb"
