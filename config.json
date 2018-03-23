@@ -3,7 +3,7 @@
     "secret": "a117008067",
     "database": "redis",
     "redis": {
-        "host": "localhost",
+        "host": "10.10.10.132",
         "port": "6379",
         "password": "",
         "database": "nodebb"
